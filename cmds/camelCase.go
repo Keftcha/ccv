@@ -9,7 +9,7 @@ import (
 	"github.com/keftcha/ccv/format"
 )
 
-// CamelCase is cobra command to pascal case
+// CamelCase is cobra command to camel case
 var CamelCase = &cobra.Command{
 	Use:   "camel",
 	Short: "Convert to camel case",
