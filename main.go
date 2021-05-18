@@ -25,6 +25,8 @@ func main() {
 		cmds.PascalCase,
 		cmds.CamelCase,
 		cmds.ReverseCase,
+		cmds.Capitalize,
+		cmds.Titleize,
 	)
 
 	cmd.Execute()
