@@ -27,6 +27,7 @@ func main() {
 		cmds.ReverseCase,
 		cmds.Capitalize,
 		cmds.Titleize,
+		cmds.Hashtag,
 	)
 
 	cmd.Execute()
